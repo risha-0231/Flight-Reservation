@@ -15,3 +15,5 @@ What the project does:
 ->customer can book flights/n
 ->customer can cancel flights/n
 ->customer can view reservation details
+
+username: admin, password: admin
