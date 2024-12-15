@@ -4,7 +4,9 @@ OOPs with Java Mini-project 3rd Sem
 Java application to view, book and cancel flights.
 
 Tech stack:
-GUI- Java Swing /n
+
+GUI- Java Swing 
+
 Database- MySQL
 
 What the project does:
