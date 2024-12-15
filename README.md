@@ -1,2 +1,17 @@
 # Flight-Reservation
-Java application to book, cancel and view flights and reservations
+OOPs with Java Mini-project 3rd Sem
+
+Java application to view, book and cancel flights.
+
+Tech stack:
+GUI- Java Swing
+Database- MySQL
+
+What the project does:
+->customers can view the available flights
+->each customer's details suck as name, age, address and phone no. can be entered
+->customer can book flights
+->customer can cancel flights
+->customer can view reservation details
+
+
